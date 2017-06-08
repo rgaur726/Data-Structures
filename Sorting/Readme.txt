@@ -1,1 +1,1 @@
-All my sorting algos go here.
+All my sorting algorithms go here.
